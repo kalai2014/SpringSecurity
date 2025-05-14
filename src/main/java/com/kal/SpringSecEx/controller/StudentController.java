@@ -1,5 +1,6 @@
-package com.kal.SpringSecEx;
+package com.kal.SpringSecEx.controller;
 
+import com.kal.SpringSecEx.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;

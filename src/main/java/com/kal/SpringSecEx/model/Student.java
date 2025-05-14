@@ -1,6 +1,4 @@
-package com.kal.SpringSecEx;
-
-import lombok.Data;
+package com.kal.SpringSecEx.model;
 
 public class Student {
 
